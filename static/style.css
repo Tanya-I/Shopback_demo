@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(135deg, #f9fafc, #eef2f7);
+}
+.card {
+    max-width: 600px;
+    margin: auto;
+}
