@@ -36,4 +36,4 @@ def upload():
     return render_template("result.html", brand_id=brand_id, output_dir=output_dir, images=images, email_status=email_status)
 
 if __name__ == "__main__":
-    app.run(port=5001, debug=True, use_reloader=False)
+    app.run(port=5002, debug=True, use_reloader=False)
